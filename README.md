@@ -1,5 +1,24 @@
 # Sentiment Analysis of Tweets
 
+*COMPANY*:  CODTECH IT SOLUTIONS
+
+*NAME*:  PIYUSH SINGH
+
+*INTERN ID*:  CT08TUM
+
+*DOMAIN*:  DATA ANALYTICS
+
+*DURATION*:  4 WEEKS
+
+*MENTOR*:  NEELA SANTOSH
+
+
+![Image](https://github.com/user-attachments/assets/1defe561-da09-4ea5-8808-6486f980aad1)
+![Image](https://github.com/user-attachments/assets/f8509e3e-3a26-48c5-93d6-5047c1568f2e)
+![Image](https://github.com/user-attachments/assets/07918f72-c7f2-4f20-91c9-364ff6db865e)
+
+
+
 ## About the Program
 This program performs sentiment analysis on a dataset of tweets. It classifies tweets into three categories: positive, negative, and neutral. The analysis includes data preprocessing, feature extraction using TF-IDF, and model training using Logistic Regression.
 
